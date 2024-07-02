@@ -1,0 +1,78 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.log
+*.swp
+
+.vscode
+vgcore.*
+Session.vim
+.DS_Store
+megaphone
+phonebook
+GBU
+brainz
+zombiehorde
+String
+violence
+streplace
+*.replace
+harl
+harlfilter
+fixed
+fixed2
+FixedFinal
+claptrap
+scavtrap
+fragtrap
+diamondtrap
+wronganimal
+world
+abstract
+materia
+bureaucrat
+formup
+formup2
+*_shrubbery
+intern
+convert
+serialize
+id
+swap
+iter
+array
+ezfind
+span
+mutant
+btc
+RPN
+PmergeMe
